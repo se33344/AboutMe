@@ -4,4 +4,4 @@
 
 <p align="center">Languages I know</p>
 
-<img href="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNu6NmvKm0sXhLiAMTedt27xLRtlhuq_nYy3d5IYtcvkExJKLZUlJn-_kp1nYtt44rQzY&usqp=CAU](https://www.google.com/url?sa=i&url=https%3A%2F%2Fchefrito.com%2Ffat-bike-below-10000%2Flearn-assembly-language-most-upvoted-assembly-language-tutorials-vv-rLagLvSw&psig=AOvVaw2NrPdZDv6ZAJSinGoS7J1g&ust=1727615604626000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICVi-fb5YgDFQAAAAAdAAAAABAY)" alt="ASM"> Assembly
+<img href="https://media.licdn.com/dms/image/D4D12AQEM9F_-u1OT5Q/article-cover_image-shrink_600_2000/0/1658763190886?e=2147483647&v=beta&t=PFy2LQAuefuy-w5fNVWMy_qO6OtNhLYS3ApqYMRXoyo" alt="ASM"> Assembly
